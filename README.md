@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukesh633&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rukesh633&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Rukesh633&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rukesh633&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -58,29 +56,20 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rukesh-boddeti/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/rukesh20531" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://www.instagram.com/rukesh_0633/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://dribbble.com/RukeshRaj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
-  </a>
-  <a href="rukeshrukku123@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
 
-<img align="right" height="226" src="https://miro.medium.com/v2/resize:fit:1400/1*1Xm4NjD-yZ0NF8rOhw1dsw.gif"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*1Xm4NjD-yZ0NF8rOhw1dsw.gif"  />
 
 ###
 
-<h6 align="center">Hello! I'm Rukesh, a dynamic individual with a strong educational background in Computer Science Engineering and a passion for technology and design.<br><br>🎓 Currently in my final year pursuing a Bachelor of Technology degree, I've gained valuable experience through various projects where I've honed my skills in web development and user interface design. Proficient in HTML, CSS, JavaScript, and React.js, I've developed user-friendly websites and web applications that prioritize both functionality and aesthetics.<br><br>💻 Additionally, I'm adept at using design tools like Figma and Adobe XD to create visually appealing and intuitive user interfaces. Whether it's crafting wireframes, prototyping, or refining designs based on user feedback, I thrive on the creative process of bringing ideas to life.<br><br>🚀 I'm excited about the opportunity to contribute my skills and knowledge to a forward-thinking team. While my passion lies in UI/UX design, I'm open to exploring roles that allow me to leverage my technical expertise and creativity. If you're seeking a proactive team member with a strong foundation in technology and a drive for continuous learning, let's connect!</h6>
+<p align="left">Hello! I'm Rukesh, a dynamic individual with a strong educational background in Computer Science Engineering and a passion for technology and design.<br><br>🎓 Currently in my final year pursuing a Bachelor of Technology degree, I've gained valuable experience through various projects where I've honed my skills in web development and user interface design. Proficient in HTML, CSS, JavaScript, and React.js, I've developed user-friendly websites and web applications that prioritize both functionality and aesthetics.<br><br>💻 Additionally, I'm adept at using design tools like Figma and Adobe XD to create visually appealing and intuitive user interfaces. Whether it's crafting wireframes, prototyping, or refining designs based on user feedback, I thrive on the creative process of bringing ideas to life.<br><br>🚀 I'm excited about the opportunity to contribute my skills and knowledge to a forward-thinking team. While my passion lies in UI/UX design, I'm open to exploring roles that allow me to leverage my technical expertise and creativity. If you're seeking a proactive team member with a strong foundation in technology and a drive for continuous learning, let's connect!</p>
 
 ###
